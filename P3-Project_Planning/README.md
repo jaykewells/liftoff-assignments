@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+![Landing Page](https://github.com/jaykewells/liftoff-assignments/blob/master/P3-Project_Planning/Landing.jpg)
+![Add Page](https://github.com/jaykewells/liftoff-assignments/blob/master/P3-Project_Planning/Add.jpg)
+![Listing Page](https://github.com/jaykewells/liftoff-assignments/blob/master/P3-Project_Planning/Listing.jpg)
 
 ### Project Tracker
 
